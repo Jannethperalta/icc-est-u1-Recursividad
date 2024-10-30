@@ -7,6 +7,12 @@ public class App {
         System.out.println(rec.sumaconsecutivos(5));
         System.out.println(rec.SumaDigitos(456));
         
+        
+        System.out.println(rec.fibonacinaci(1));
+        RenombrarDirectorios rd = new RenombrarDirectorios();
+        rd.RenombrarDirectorios("src/Main.java");
+        rd.RenombrarDirectorios ("src/directorios");
+
     }
 
 }

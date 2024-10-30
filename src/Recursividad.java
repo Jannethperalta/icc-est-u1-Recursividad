@@ -40,6 +40,16 @@ public class Recursividad {
         }
         return n %  10 + SumaDigitos(n/10);
     }
+public int fibonacinaci(iny i){
+    // caso o cassos base:
+     if (n==0)return 0{
+     if (n==1) return 1;
+     
 
+    return fibonacinaci(n-i)+fibobacci(n-2);
+        
+    }
+
+}
 
  }
